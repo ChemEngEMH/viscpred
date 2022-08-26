@@ -1,5 +1,5 @@
 # viscpred
-ANN model for viscosity prediction
+ANN model for viscosity prediction.
 This ANN model predicts log10(viscosity in mPa s) at different temperatures. 
 
 USAGE:
